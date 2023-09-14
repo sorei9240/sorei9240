@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sorei9240
 - 👀 I’m interested in python, SQL, data visualisation, AI & ML
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me ...
 
