@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sorei9240
-- 👀 I’m interested in AI and Game Development
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in AI and Software Development
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on beginner & intermediate projects
 
 <!---
